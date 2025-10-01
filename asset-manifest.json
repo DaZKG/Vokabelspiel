@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Vokabelspiel/static/css/main.e6c13ad2.css",
-    "main.js": "/Vokabelspiel/static/js/main.a1361801.js",
+    "main.js": "/Vokabelspiel/static/js/main.8b108ef3.js",
     "static/js/584.f33c58e9.chunk.js": "/Vokabelspiel/static/js/584.f33c58e9.chunk.js",
     "index.html": "/Vokabelspiel/index.html",
     "main.e6c13ad2.css.map": "/Vokabelspiel/static/css/main.e6c13ad2.css.map",
-    "main.a1361801.js.map": "/Vokabelspiel/static/js/main.a1361801.js.map",
+    "main.8b108ef3.js.map": "/Vokabelspiel/static/js/main.8b108ef3.js.map",
     "584.f33c58e9.chunk.js.map": "/Vokabelspiel/static/js/584.f33c58e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a1361801.js"
+    "static/js/main.8b108ef3.js"
   ]
 }
